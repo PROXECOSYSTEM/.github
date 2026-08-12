@@ -34,5 +34,4 @@ For security verification, partnership inquiries, or vulnerability disclosures, 
 
 * **Official Domain:** `https://prox.is-a.dev`
 * **GitHub Organization:** `@PROXECOSYSTEM`
-* **Security Contact:** `security@prox.is-a.dev`
-* 
+* **Security Contact:** `prox.supporter@gmail.com`
